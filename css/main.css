@@ -32,6 +32,8 @@
 
 .emojis {
   display: grid;
+  width: 900px;
+  height: 700px;
   grid-template-columns: 1fr 1fr;
   grid-gap: 10px;
 }
