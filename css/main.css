@@ -32,9 +32,10 @@
 
 .emojis {
   display: grid;
-  width: 900px;
+  width: 700px;
   height: 600px;
   grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
   grid-gap: 10px;
 }
 
