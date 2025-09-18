@@ -26,15 +26,16 @@
 
 .icon {
   font-size: 4rem;
-  grid-row: 1/1;
+  grid-row: 1;
   justify-self: center;
 }
 
 .emojis {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
-  grid-gap: 20px;
+  grid-gap: 10px;
 }
+
+
 
 
