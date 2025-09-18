@@ -27,6 +27,7 @@
 .icon {
   font-size: 4rem;
   grid-row: 1/1;
+  justify-self: center;
 }
 
 .emojis {
